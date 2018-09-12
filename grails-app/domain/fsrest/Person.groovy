@@ -6,5 +6,7 @@ class Person {
 
     static constraints = {
         age range: 0..120
+        name nullable: false, blank: false
+
     }
 }

@@ -1,0 +1,1 @@
+grails.databinding.convertEmptyStringsToNull = false
